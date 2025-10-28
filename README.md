@@ -664,6 +664,4 @@ Optimización de componentes existentes para mejor performance
 💡 Valor del Proyecto
 Este proyecto demuestra capacidad técnica sólida en desarrollo frontend moderno, habilidades de trabajo en equipo efectivo y comprensión profunda de los requisitos específicos del dominio (café Santander). La FASE I establece una base excelente para iteraciones futuras y representa un cumplimiento sobresaliente de los objetivos académicos planteados.
 
-Calificación general del proyecto: Excelente base técnica y organizativa para desarrollos futuros, con un enfoque claro en la identidad cafetera santandereana y las mejores prácticas de desarrollo web moderno.
-
-<p align="center"> <em>Desarrollado con ❤️ por el Grupo 2 - Diseño de Aplicaciones Web - Universidad Industrial de Santander</em> </p><p align="center"> <em>© 2025 Café Santander. Todos los derechos reservados.</em> </p>
+<p align="center"> <em>Desarrollado con ❤️ por el Grupo 2 - Diseño de Aplicaciones Web - Universidad Industrial de Santander</em> </p>
