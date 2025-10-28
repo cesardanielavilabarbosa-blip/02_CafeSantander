@@ -325,4 +325,4 @@ Consulta las guías de instalación oficiales
 
 <p align="center"> <em>¡Listo para comenzar! Ejecuta `npm run dev` y disfruta de Café Santander 🚀</em> </p><p align="center"> <em>Desarrollado con ❤️ por el Grupo 2 - Diseño de Aplicaciones Web - Universidad Industrial de Santander</em> </p>
 
-<p align="center"> <em>¡Listo para comenzar! Ejecuta `npm run dev` y disfruta de Café Santander 🚀</em> </p><p align="center"> <em>Desarrollado con ❤️ por el Grupo 2 - Diseño de Aplicaciones Web - Universidad Industrial de Santander</em> </p>
+
